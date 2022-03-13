@@ -1,6 +1,6 @@
-package toLearnJava;
+package learnJava;
 
-public class toLearnJava {
+public class learnJava {
 
 	public static void main(String[] args) {
 		
@@ -9,3 +9,4 @@ public class toLearnJava {
 	}
 
 }
+
